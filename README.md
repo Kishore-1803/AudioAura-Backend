@@ -192,5 +192,3 @@ This project is licensed under the **MIT License** — see the LICENSE file for 
 ---
 
 ⭐ *If this project helped power your AI podcast workflow, please consider starring the repo!* ⭐
-::contentReference[oaicite:0]{index=0}
-```
