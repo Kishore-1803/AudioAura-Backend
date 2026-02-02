@@ -55,28 +55,6 @@ The backend is implemented using **FastAPI** for speed, scalability, and maintai
 | TTS | gTTS / OpenAI TTS (configurable) |
 | Deployment | Uvicorn / Docker (optional) |
 | Data Sources | News API, Weather API |
-
----
-
-## 📁 Project Structure
-
-```text
-AudioAura-Backend/
-├── app/
-│   ├── main.py                 # FastAPI application
-│   ├── routes/                 # API route definitions
-│   ├── services/               # Business logic (TTS, news, weather)
-│   ├── schemas/                # Request/response models
-│   ├── utils/                  # Helpers & utilities
-│   ├── static/                 # Generated audio files
-│   └── __init__.py
-├── requirements.txt            # Backend dependencies
-├── .env.example                # Example environment config
-├── Procfile                    # Deployment config
-├── Dockerfile                  # Optional container config
-└── README.md
-````
-
 ---
 
 ## 📦 Getting Started
