@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-Backend-blue.svg"/>
-  ![TTS Engine](https://img.shields.io/badge/TTS--Engine-OpenAI--gTTS--%F0%9F%87%B7%F0%9F%87%BA-orange)
+  <img src="https://img.shields.io/badge/TTS-OpenAI%20%7C%20gTTS-orange.svg"/>
   <img src="https://img.shields.io/badge/Status-Active-success.svg"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
 </p>
